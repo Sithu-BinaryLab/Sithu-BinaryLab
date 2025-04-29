@@ -15,7 +15,7 @@ I'm a passionate **Senior Frontend Developer** with 5+ years of experience build
 
 🔹 **Expertise**: Social apps, PWAs, E-commerce, LMS, Admin dashboards  
 🔹 **Philosophy**: Clean code, reusable components, and data-driven development  
-🔹 **Currently**: Building crypto financial apps at [Merypto](https://merypto.com/)  
+🔹 **Currently**: Building crypto financial app
 
 ---
 
@@ -64,22 +64,6 @@ I'm a passionate **Senior Frontend Developer** with 5+ years of experience build
 - Specialized in Software Engineering, AI, and Project Management  
 
 ---
-
-## 🏆 Projects  
-
-### [CP Cash](https://cpcash.io/) - Cryptocurrency Platform  
-![React](https://img.shields.io/badge/-React-61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)  
-Digital platform for managing/exchanging CP tokens with staking features  
-
-### [Newsmast](https://newsmast.org/) - Social App  
-![Next.js](https://img.shields.io/badge/-Next.js-000000) ![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF)  
-Fediverse-based social platform with 2.5M+ users  
-
-### [Beatpulse](https://beatpulse.io/) - Music Licensing  
-![React](https://img.shields.io/badge/-React-61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC)  
-Platform for musicians and content creators to license instrumentals  
-
-[View All Projects →](https://sithulwin.dev/archive)
 
 ---
 
