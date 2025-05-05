@@ -39,7 +39,7 @@ I'm a passionate **Senior Frontend Developer** with 5+ years of experience build
 
 ### **Senior Frontend Developer** @ [CPCash]
 `Sep 2024 - Present | Bangkok, Thailand (Remote)`  
-- Lead frontend development for a cryptocurrency financial platform  
+- Frontend development for a cryptocurrency financial platform  
 - Architect development plans and perform code reviews  
 
 ### **Senior Frontend Developer** @ Binary Lab  
