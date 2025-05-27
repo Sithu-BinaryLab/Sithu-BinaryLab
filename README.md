@@ -76,9 +76,3 @@ I'm a passionate **Senior Frontend Developer** with 5+ years of experience build
 - React Advanced Course (Udemy)  
 
 ---
-
-<p align="center">
-  <i>Let's connect and build something amazing!</i>  
-  <br>
-  [![Email](https://img.shields.io/badge/Email%20Me-8A2BE2?style=for-the-badge)](mailto:sithulwin.devit@gmail.com)
-</p>
